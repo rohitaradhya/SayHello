@@ -7,15 +7,15 @@ This is a simple example project demonstrating how to publish a python module to
 Run the follwing to install:
 
 ```python
-pip install helloworld
+pip install hellouser
 ```
 
 ## Usage
 
 ```python
-from helloworld import say_hello
+from hellouser import say_hello
 
-# Generate "Hello, World!"
+# Generate "Hello, User!"
 say_hello()
 
 # Generate "Hello, Everybody!"
